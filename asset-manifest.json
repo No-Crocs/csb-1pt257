@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://no-crocs.github.io/csb-1pt257/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://no-crocs.github.io/csb-1pt257/static/js/main.f399465a.chunk.js",
+    "main.js.map": "https://no-crocs.github.io/csb-1pt257/static/js/main.f399465a.chunk.js.map",
+    "runtime-main.js": "https://no-crocs.github.io/csb-1pt257/static/js/runtime-main.8f0d3fd1.js",
+    "runtime-main.js.map": "https://no-crocs.github.io/csb-1pt257/static/js/runtime-main.8f0d3fd1.js.map",
+    "static/js/2.fef78c52.chunk.js": "https://no-crocs.github.io/csb-1pt257/static/js/2.fef78c52.chunk.js",
+    "static/js/2.fef78c52.chunk.js.map": "https://no-crocs.github.io/csb-1pt257/static/js/2.fef78c52.chunk.js.map",
+    "index.html": "https://no-crocs.github.io/csb-1pt257/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://no-crocs.github.io/csb-1pt257/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.fef78c52.chunk.js.LICENSE.txt": "https://no-crocs.github.io/csb-1pt257/static/js/2.fef78c52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f0d3fd1.js",
+    "static/js/2.fef78c52.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.f399465a.chunk.js"
+  ]
+}
